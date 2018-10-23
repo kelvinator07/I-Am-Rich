@@ -13,3 +13,4 @@ The red icon over your iPhone or iPod touch always reminds you (and others when 
 This is my version of the I Am Rich app and the source code which took to build it for your android device. The images used: The background image with the shooting starts was found on a simple google image search for 'shooting stars' and the diamond images were found on london app brewery.
 
 Screen Shot of Project Complete running on Android Emulator - Nexus 5X API 26
+![Alt text](https://github.com/kelvinator07/I-Am-Rich/blob/master/Screenshot_20181023-200235.png)
